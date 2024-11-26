@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Bank Simulation Test",
+      "setup": "chmod u+x ./test_setup.sh",
+      "run": "./test_setup.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}

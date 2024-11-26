@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wno-long-long -pedantic -g -rdynamic CMakeFiles/bankSimulationTest.dir/test/TestRunner.cpp.o CMakeFiles/bankSimulationTest.dir/test/GradeAccumulator.cpp.o -o bankSimulationTest  lib/libgtest_main.a lib/libgtest.a 

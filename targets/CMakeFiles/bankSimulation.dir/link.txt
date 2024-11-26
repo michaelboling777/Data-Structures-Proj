@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wno-long-long -pedantic -g -rdynamic CMakeFiles/bankSimulation.dir/src/Main.cpp.o -o bankSimulation 
