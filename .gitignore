@@ -380,3 +380,7 @@ DerivedData/
 tmtags
 .idea/
 cmake-build-debug/
+
+
+
+*:Zone.Identifier
